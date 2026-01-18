@@ -27,6 +27,16 @@ leaf-nextjs-convex/
 │   ├── messages.ts          # Message mutations/queries
 │   ├── search.ts            # Semantic search
 │   └── _generated/          # Auto-generated Convex types
+├── docs/
+│   ├── specs/               # LEAF spec (source of truth)
+│   ├── adrs/                # Architecture Decision Records
+│   ├── architecture-overview.md
+│   ├── api-overview.md
+│   ├── data-model.md
+│   ├── deployment.md
+│   ├── security.md
+│   ├── testing-overview.md
+│   └── ui-guide.md
 └── public/
 ```
 
